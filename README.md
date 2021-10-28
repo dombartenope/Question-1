@@ -4,4 +4,3 @@
 > - Written in Kotlin
 > - Connected to Firebase and the OneSignal SDK for android developement
 
-![Image of in app message](https://ibb.co/hZjF54F)
