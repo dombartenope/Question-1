@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572071985253",
+    "project_id": "question-1-35494",
+    "storage_bucket": "question-1-35494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572071985253:android:ebc14a32a11d76186c868c",
+        "android_client_info": {
+          "package_name": "com.example.question1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572071985253-pohne1d0f44qas9q0aqi7uucv8r8l2a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj3dBI0EOaKAEIt2grFYNsvgYzHuHz62M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572071985253-pohne1d0f44qas9q0aqi7uucv8r8l2a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
